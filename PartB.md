@@ -110,6 +110,17 @@ knowledge to NTUA, via:
 * organization of a joint summer school,
 * on-site visit of NTUA personnel at the observation site operated by OSO 
 
+By means of a specialized, tehcnique-based contribution of each member of the 
+consortium to the host (NTUA), knowledge transfer can be better achieved, managed,
+digested and verified. The host institution will be the sole recipient of this 
+one-way flow of expertise, attributing dedicated personnel to each of the techniques 
+described, thus creating a pool of experts.
+
+This highly-skilled work force will in turn disperse the knowledge gained, via 
+NTUA's academic capacity, to the future Space- and Geo-scientists of Greece, 
+significantly boosting innnovation and the country's involvement in the growing 
+satellite-based application market.
+
 > Describe how appropriate open science practices are implemented as an integral 
 > part of the proposed methodology. Show how the choice of practices and their 
 > implementation are adapted to the nature of your work, in a way that will 
