@@ -94,5 +94,19 @@ relevant knowledge to NTUA via:
 * establishment of sound collaboration with
 
 GFZ will act as the SLR node, since it has a longstanding contribution in the 
-technique, evident by its involvement in the ILRS as an Analysis Center.
+technique, evident by its involvement in the ILRS as an Analysis Center. Dissemination 
+of knowledge and expertise will be carried out via:
+* personnel visits from the institutes to NTUA and vice-versa,
+* co-supervision of one PhD,
+* organization of a joint summer school,
+* on-site visit of NTUA personnel at the SLR station at Potsdam, operated by GFZ
+
+OSO/Chalmers will act as the VLBI knowledge node. OSO hosts one of the few VLBI 
+sites in Europe and is a prominent member of the International VLBI Service for 
+Geodesy and Astrometry. OSO will undertake the task of transfering technique-specific 
+knowledge to NTUA, via:
+* personnel visits from the institutes to NTUA and vice-versa,
+* co-supervision of one PhD,
+* organization of a joint summer school,
+* on-site visit of NTUA personnel at the observation site operated by OSO 
 
