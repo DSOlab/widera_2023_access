@@ -80,4 +80,19 @@ related to Space.
 Within the framework of ACRONYM, synergies are proposed with leading experts in the 
 techniques of DORIS, SLR and VLBI with the aim of closing the knowledge and technological 
 gap and thus significantly strenghtening NTUA's academic and research capacity 
-and potential.
+and potential. Each member of the consortium will act as a knowledge transfer node 
+for one of the techniques involved
+
+IGN and CLS will act as the DORIS expertise node. Both institutes are leading 
+experts in the field, heavily involved in the technique since its introduction. 
+Their role and contribution is underpinned by their status as Analysis Centers, 
+and involvement in the IDS. The two institutes will take up the task of transfering 
+relevant knowledge to NTUA via:
+* personnel visits from the institutes to NTUA and vice-versa,
+* co-supervision of one PhD and one post-doc dissertation,
+* organization of a joint summer school,
+* establishment of sound collaboration with
+
+GFZ will act as the SLR node, since it has a longstanding contribution in the 
+technique, evident by its involvement in the ILRS as an Analysis Center.
+
