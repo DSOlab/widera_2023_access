@@ -110,3 +110,32 @@ knowledge to NTUA, via:
 * organization of a joint summer school,
 * on-site visit of NTUA personnel at the observation site operated by OSO 
 
+> Describe how appropriate open science practices are implemented as an integral 
+> part of the proposed methodology. Show how the choice of practices and their 
+> implementation are adapted to the nature of your work, in a way that will 
+> increase the chances of the project delivering on its objectives
+
+> Research data management and management of other research outputs: Applicants 
+> generating/collecting data and/or other research outputs (except for publications) 
+> during the project must provide maximum 1/2 page on how the data/research 
+> outputs will be managed in line with the FAIR principles (Findable, Accessible, 
+> Interoperable, Reusable).
+
+# 2. Impact
+
+## 2.1 Project’s pathways towards impact
+
+> Provide a narrative explaining how the project’s results are expected to 
+> make a difference in terms of impact, beyond the immediate scope and duration 
+> of the project.
+
+## 2.2 Measures to maximise impact - Dissemination, exploitation and communication
+
+## 2.3 Summary
+
+# 3. Quality and efficiency of the implementation
+
+## 3.1 Work plan and resources
+
+## 3.2 Capacity of participants and consortium as a whole
+
