@@ -30,24 +30,21 @@ and the involvement of Greece (both public and private sector) in Space.
 
 Through the synergy with internationally-leading collaborating institutes, NTUA 
 will be able to:
+
     * modernize and enhance its academic curriculum bot at pre-graduate and graduate 
       level, via the knowledge and expertise gained by leading experts; organize 
       summer schools, focussing on PhD students and post-docs 
-
     * further educate its research and teaching personnel in recent advancements, 
       methods and techniques, as well as modern instrumentation; this process 
       will include one-to-one mentoring and one-to-many and on-site training, 
       bidirectional visits including instrumentation sites and the establishement 
       of a solid, one-way knowledge and expertise flow channel
-      
     * spread knowledge and expertise and promote innovation via a series of 
       PhD and post-doc programs to be carried out in close collaboration with 
       the partners (3 PhD and 1 post-doc)
-
     * enhance the hosts's capacity in partnership-building, preperation and 
       carrying out of research proposals funded by national authorities, the 
       European Commission (EC) and the European Space Agency (ESA),
-      
     * establish a network of collaborations and getting involved in high calibre 
       international consortia (e.g. IDS, ILRS, GGOS) securing its long term 
       inclusion in the future steps of Space Geodesy.
