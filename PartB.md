@@ -90,16 +90,35 @@ and involvement in the IDS. The two institutes will take up the task of transfer
 relevant knowledge to NTUA via:
 * personnel visits from the institutes to NTUA and vice-versa,
 * co-supervision of one PhD and one post-doc dissertation,
+* provide assistance in expanding and refining NTUA's DORIS data analysis toolbox,
 * organization of a joint summer school,
-* establishment of sound collaboration with
+* establishment of sound long-term collaboration aiming at future synergies
+
+NTUA has, in recent years, started an effort to take up the technique, build 
+a software package to process DORIS data and get involved in the international 
+consortium of IDS. The assistance of IGN and CLS will prove to be invaluable for 
+the stepping up of this effort, and the consolidation of NTUA's contribution in 
+the technique. Additionally, the two institutes are long contributors of the 
+IDS and can introduce NTUA in the service, a fact that can lead to a solid, 
+long lasting technical involvement and further networking capacity with high esteem 
+institutions.
 
 GFZ will act as the SLR node, since it has a longstanding contribution in the 
 technique, evident by its involvement in the ILRS as an Analysis Center. Dissemination 
 of knowledge and expertise will be carried out via:
 * personnel visits from the institutes to NTUA and vice-versa,
 * co-supervision of one PhD,
+* provide assistance in building an SLR data analysis toolbox,
 * organization of a joint summer school,
-* on-site visit of NTUA personnel at the SLR station at Potsdam, operated by GFZ
+* on-site visit of NTUA personnel at the SLR station at Potsdam, operated by GFZ,
+* establishment of sound long-term collaboration aiming at future synergies
+
+Despite SLR's prominent role in Space Geodesy, NTUA's involvement in the technique 
+has been minimum in the last few decades. Besides core geodetic results (e.g. 
+Earth Orientation Parameters) SLR provides the most accurate observations for 
+Precise Orbit Determination, a problem inherently coupled with all space geodetic 
+applications. 
+
 
 OSO/Chalmers will act as the VLBI knowledge node. OSO hosts one of the few VLBI 
 sites in Europe and is a prominent member of the International VLBI Service for 
