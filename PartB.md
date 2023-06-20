@@ -177,5 +177,18 @@ satellite-based application market.
 
 ## 3.1 Work plan and resources
 
+| WP # | Title | Leader | PMs per WP | Start Month | End Month |
+| -----|-------|--------|------------|-------------|-----------|
+| WP1  | Project Management & Coordination | NTUA (1) | | 1 | 36 |
+| WP2  | Capacity Building | NTUA (1) | | 1 | 36 |
+| WP3  | Dissemination | NTUA (1) | | 1 | 36 |
+
+| Task | Description | 2 | 4 | 8 | 12 | 14| 16| 18| 20 |22 | 24 | 26 | 28 | 30 |32 | 34 | 36 |
+|------|-------------|---|---|---|----|---|---|---|----|---|----|----|----|----|---|----|----|
+| 1.1  | Quality assurance, ristk management |||||||||||||||||
+| 1.2  | Project maagement, financial monitoring |||||||||||||||||
+| 1.3  | Project Reporting |||||||||||||||||
+
+
 ## 3.2 Capacity of participants and consortium as a whole
 
