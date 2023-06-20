@@ -1,12 +1,12 @@
 # 0. Partners
 
-# | Name |
---|------| 
-1 | NTUA |
-2 | CLS  |
-3 | IPGP | 
-4 | GFZ  |
-5 | OSO  |
+|# | Name |
+|--|------| 
+|1 | NTUA |
+|2 | CLS  |
+|3 | IPGP | 
+|4 | GFZ  |
+|5 | OSO  |
 
 # 1. Excellence
 
