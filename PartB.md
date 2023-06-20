@@ -1,3 +1,13 @@
+# 0. Partners
+
+# | Name |
+--|------| 
+1 | NTUA |
+2 | CLS  |
+3 | IPGP | 
+4 | GFZ  |
+5 | OSO  |
+
 # 1. Excellence
 
 ## 1.1 Objectives 
@@ -117,7 +127,7 @@ Despite SLR's prominent role in Space Geodesy, NTUA's involvement in the techniq
 has been minimum in the last few decades. Besides core geodetic results (e.g. 
 Earth Orientation Parameters) SLR provides the most accurate observations for 
 Precise Orbit Determination, a problem inherently coupled with all space geodetic 
-applications. 
+applications.
 
 
 OSO/Chalmers will act as the VLBI knowledge node. OSO hosts one of the few VLBI 
