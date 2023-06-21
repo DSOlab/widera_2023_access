@@ -179,9 +179,10 @@ satellite-based application market.
 
 | WP # | Title | Leader | PMs per WP | Start Month | End Month |
 | -----|-------|--------|------------|-------------|-----------|
-| WP1  | Project Management & Coordination | NTUA (1) | | 1 | 36 |
-| WP2  | Capacity Building | NTUA (1) | | 1 | 36 |
-| WP3  | Networking & Dissemination | NTUA (1) | | 1 | 36 |
+| [WP1](#wp1)  | Project Management & Coordination | NTUA (1) | | 1 | 36 |
+| [WP2](#wp2)  | Capacity Building | NTUA (1) | | 1 | 36 |
+| [WP3](#wp3)  | Space Geodesy Software Tool-Box | NTUA (1) | | 1 | 36 |
+| [WP4](#wp4)  | Networking & Dissemination | NTUA (1) | | 1 | 36 |
 
 | Task | Description | 2 | 4 | 8 | 12 | 14| 16| 18| 20 |22 | 24 | 26 | 28 | 30 |32 | 34 | 36 |
 |------|-------------|---|---|---|----|---|---|---|----|---|----|----|----|----|---|----|----|
@@ -192,11 +193,14 @@ satellite-based application market.
 | 2.2  | Knowledge Transfer: SLR |||||||||||||||||
 | 2.3  | Knowledge Transfer: VLBI |||||||||||||||||
 | 2.4  | Knowledge Transfer: Administration |||||||||||||||||
-| 3.1  | Exploitation |||||||||||||||||
-| 3.2  | Communication Activities |||||||||||||||||
-| 3.3  | Open Science |||||||||||||||||
+| 3.1  | DORIS Data analysis Tools |||||||||||||||||
+| 3.2  | SLR Data Analysis Tools |||||||||||||||||
+| 3.3  | VLBI Data Analysis Tools |||||||||||||||||
+| 4.1  | Exploitation |||||||||||||||||
+| 4.2  | Communication Activities |||||||||||||||||
+| 4.3  | Open Science |||||||||||||||||
 
-### WP1 Project Management & Coordination
+### WP1 Project Management & Coordination <a name="wp1"></a>
 
 The objectives of this WP are to: 
 
@@ -235,7 +239,7 @@ and counter measures explicit.
 
 **Deliverable D1.3**: Interim & Final Reports
 
-### WP2 Capacity Building
+### WP2 Capacity Building <a name="wp2"></a>
 
 The objectives of this WP are to: 
 
@@ -256,9 +260,6 @@ where they will be taught specifics of the DORIS technique, data analysis scheme
 used in the expert institutes and relevant applications. 
 Short term visits of CLS and IPGP personnel to NTUA, where they will perform schooling 
 for NTUA personnel and PhD and PostDoc students.
-CLS and IPGP will provide assistance to NTUA for the latter to build its own 
-processing software, thus gaining hands-on experience and efficiency in the 
-technique.
 IPGP and CLS will introduce NTUA to the IDS community, thus enabling further long-term 
 networking in a high-caliber service with prestigious international members.
 Co-authorship of one scientific paper, to be published in peer-reviewed journal, 
@@ -276,9 +277,6 @@ make a guided visit at the SLR station in Potsdam (operated by GFZ), where they
 will be introduced to the instrumentation and operational aspects of the site.
 Short term visits of GFZ personnel to NTUA, where they will perform schooling 
 for NTUA personnel and PhD students.
-GFZ will provide assistance to NTUA for the latter to build its own 
-processing software, thus gaining hands-on experience and efficiency in the 
-technique.
 GFZ will introduce NTUA to the ILRS community, thus enabling further long-term 
 networking in a high-caliber service with prestigious international members.
 Co-authorship of one scientific paper, to be published in peer-reviewed journal, 
@@ -310,6 +308,28 @@ proposals, as well as the efficient administration of research intensive scienti
 projects.
 
 **Deliverable D2.4**:
+
+### WP3 Space Geodesy Software Tool-Box <a name="wp3"></a>
+
+The objective of this WP is for the host institute to build its own scientific 
+software toolset, to perform close to state-of-the-art data analysis for 
+observations collected by both DORIS and SLR techniques. The software will be 
+specifically targeted towards precise orbit determination and estimation of 
+geodetic parameters. All involved partners will assist the host institute in 
+reaching this goal, via individual contributions in their respective areas of 
+expertise. 
+
+**Task 3.1 **
+CLS and IPGP will provide assistance to NTUA for the latter to build its own 
+processing software, thus gaining hands-on experience and efficiency in the 
+technique.
+GFZ will provide assistance to NTUA for the latter to build its own 
+processing software, thus gaining hands-on experience and efficiency in the 
+technique.
+
+**Deliverable D3.1**:
+
+### WP4 Networking & Dissemination <a name="wp4"></a>
 
 ## 3.2 Capacity of participants and consortium as a whole
 
