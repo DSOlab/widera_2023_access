@@ -19,11 +19,11 @@
 Since the introduction of Earth orbiting satellites, Space Geodesy has played 
 a crucial role in our understanding of the complex Earth system. An ever increasing 
 number of space-based applications, including but not limited to climate change, 
-positioning, space exploration, security and awarness, Earth kinematics and reference
+positioning, space exploration, security and awareness, Earth kinematics and reference
 frames maintenance, geodynamics, etc, are heavily dependent on results and products 
 derived by methods of Space Geodesy, and hence correlated with advances and 
 progress within this scientific field. Observing the Earth system through space, is 
-in essence an excercise of Satellite Geodesy.
+in essence an exercise of Satellite Geodesy.
 
 The Project Coordinator (NTUA), via its School of Rural, Surveying and Geoinformatics 
 Engineering, is the oldest and most prestigious institution in Greece providing 
@@ -43,19 +43,19 @@ will be able to:
 
 * modernize and enhance its academic curriculum bot at pre-graduate and graduate 
   level, via the knowledge and expertise gained by leading experts; organize 
-  summer schools, focussing on PhD students and post-docs 
+  summer schools, focusing on PhD students and post-docs 
 
 * further educate its research and teaching personnel in recent advancements, 
   methods and techniques, as well as modern instrumentation; this process 
   will include one-to-one mentoring and one-to-many and on-site training, 
-  bidirectional visits including instrumentation sites and the establishement 
+  bidirectional visits including instrumentation sites and the establishment 
   of a solid, one-way knowledge and expertise flow channel
 
 * spread knowledge and expertise and promote innovation via a series of 
   PhD and post-doc programs to be carried out in close collaboration with 
   the partners (3 PhD and 1 post-doc)
 
-* enhance the hosts's capacity in partnership-building, preperation and 
+* enhance the host's capacity in partnership-building, preparation and 
   carrying out of research proposals funded by national authorities, the 
   European Commission (EC) and the European Space Agency (ESA),
 
@@ -75,12 +75,12 @@ will be able to:
 ### 1.2.1 Proposed Methodology
 
 Modern Space Geodesy input is based on four fundamental observational pillars, 
-namelly GNSS, DORIS, SLR and VLBI. These four techniques provide the crucial dataset 
+namely GNSS, DORIS, SLR and VLBI. These four techniques provide the crucial dataset 
 to study the Earth system and in turn provide the prerequisite products for 
 a wide range of space-based applications and study fields.
 
 While NTUA has a well established expertise in the field of GNSS, verifiable by 
-its constribution in international consortia (e.g. EUREF) and its long list of 
+its contribution in international consortia (e.g. EUREF) and its long list of 
 relevant publications in scientific journals, its lacks knowledge, involvement and 
 expertise in the other three techniques that lay at the core of Space Geodesy.
 This severely weakens both its academic and research capabilities at the field, as 
@@ -89,14 +89,14 @@ related to Space.
 
 Within the framework of ACRONYM, synergies are proposed with leading experts in the 
 techniques of DORIS, SLR and VLBI with the aim of closing the knowledge and technological 
-gap and thus significantly strenghtening NTUA's academic and research capacity 
+gap and thus significantly strengthening NTUA's academic and research capacity 
 and potential. Each member of the consortium will act as a knowledge transfer node 
 for one of the techniques involved
 
 IGN and CLS will act as the DORIS expertise node. Both institutes are leading 
 experts in the field, heavily involved in the technique since its introduction. 
 Their role and contribution is underpinned by their status as Analysis Centers, 
-and involvement in the IDS. The two institutes will take up the task of transfering 
+and involvement in the IDS. The two institutes will take up the task of transferring 
 relevant knowledge to NTUA via:
 * personnel visits from the institutes to NTUA and vice-versa,
 * co-supervision of one PhD and one post-doc dissertation,
@@ -132,14 +132,14 @@ applications.
 
 OSO/Chalmers will act as the VLBI knowledge node. OSO hosts one of the few VLBI 
 sites in Europe and is a prominent member of the International VLBI Service for 
-Geodesy and Astrometry. OSO will undertake the task of transfering technique-specific 
+Geodesy and Astrometry. OSO will undertake the task of transferring technique-specific 
 knowledge to NTUA, via:
 * personnel visits from the institutes to NTUA and vice-versa,
 * co-supervision of one PhD,
 * organization of a joint summer school,
 * on-site visit of NTUA personnel at the observation site operated by OSO 
 
-By means of a specialized, tehcnique-based contribution of each member of the 
+By means of a specialized, technique-based contribution of each member of the 
 consortium to the host (NTUA), knowledge transfer can be better achieved, managed,
 digested and verified. The host institution will be the sole recipient of this 
 one-way flow of expertise, attributing dedicated personnel to each of the techniques 
@@ -147,7 +147,7 @@ described, thus creating a pool of experts.
 
 This highly-skilled work force will in turn disperse the knowledge gained, via 
 NTUA's academic capacity, to the future Space- and Geo-scientists of Greece, 
-significantly boosting innnovation and the country's involvement in the growing 
+significantly boosting innovation and the country's involvement in the growing 
 satellite-based application market.
 
 > Describe how appropriate open science practices are implemented as an integral 
@@ -194,6 +194,7 @@ satellite-based application market.
 | 2.4  | Knowledge Transfer: Administration |||||||||||||||||
 | 3.1  | Exploitation |||||||||||||||||
 | 3.2  | Communication Activities |||||||||||||||||
+| 3.3  | Open Science |||||||||||||||||
 
 ### WP1 Project Management & Coordination
 
@@ -233,6 +234,77 @@ project or the previous project report, while making deviations and major risks
 and counter measures explicit.
 
 **Deliverable D1.3**: Interim & Final Reports
+
+### WP2 Capacity Building
+
+The objectives of this WP are to: 
+
+* Create efficient, solid communication and networking channels between the host and 
+the twining research institutions
+* Lay the foundation for a long-term synergies and collaboration in the scientific 
+fields of expertise
+* Transfer scientific knowledge and expertise from the partners to the host institution/personnel
+* Transfer administrative knowledge and skills from the partners to the host institution
+
+**Task 2.1 Knowledge Transfer: DORIS**
+Inclusion of IPGP and/or CLS personnel in at least one PhD dissertation and one 
+post-doc, carried out in NTUA. 
+Short term visits of NTUA personnel, PhD and PostDoc students to CLS and IPGP, 
+where they will be taught specifics of the DORIS technique, data analysis schemes 
+used in the expert institutes and relevant applications. 
+Short term visits of CLS and IPGP personnel to NTUA, where they will perform schooling 
+for NTUA personnel and PhD and PostDoc students.
+CLS and IPGP will provide assistance to NTUA for the latter to build its own 
+processing software, thus gaining hands-on experience and efficiency in the 
+technique.
+IPGP and CLS will introduce NTUA to the IDS community, thus enabling further long-term 
+networking in a high-caliber service with prestigious international members.
+Co-authorship of one scientific paper, to be published in peer-reviewed journal, 
+and at least one scientific publication submitted to an international conference.
+
+**Deliverable D2.1**:
+Free and open-source DORIS data analysis software for precise orbit determination.
+
+**Task 2.2 Knowledge Transfer: SLR**
+Inclusion of GFZ personnel in at least one PhD dissertation carried out in NTUA. 
+Short term visits of NTUA personnel and PhD students to GFZ, 
+where they will be taught specifics of the SLR technique, data analysis schemes 
+used in the expert institutes and relevant applications. NTUA staff will also 
+make a guided visit at the SLR station in Potsdam (operated by GFZ), where they 
+will be introduced to the instrumentation and operational aspects of the site.
+Short term visits of GFZ personnel to NTUA, where they will perform schooling 
+for NTUA personnel and PhD students.
+GFZ will provide assistance to NTUA for the latter to build its own 
+processing software, thus gaining hands-on experience and efficiency in the 
+technique.
+GFZ will introduce NTUA to the ILRS community, thus enabling further long-term 
+networking in a high-caliber service with prestigious international members.
+Co-authorship of one scientific paper, to be published in peer-reviewed journal, 
+and at least one scientific publication submitted to an international conference.
+
+**Deliverable D2.2**:
+Free and open-source SLR data analysis software for precise orbit determination.
+
+**Task 2.3 Knowledge Transfer: VLBI**
+Inclusion of OSO personnel in at least one PhD dissertation carried out in NTUA. 
+Short term visits of NTUA personnel and PhD students to OSO, 
+where they will be taught specifics of the VLBI technique, data analysis schemes 
+used in the expert institutes and relevant applications. NTUA staff will also 
+make a guided visit at the VLBI station in Onsala (operated by OSO), where they 
+will be introduced to the instrumentation and operational aspects of the site.
+Short term visits of OSO personnel to NTUA, where they will perform schooling 
+for NTUA personnel and PhD students.
+OSO will introduce NTUA to the IVS community, thus enabling further long-term 
+networking in a high-caliber service with prestigious international members.
+Co-authorship of one scientific paper, to be published in peer-reviewed journal, 
+and at least one scientific publication submitted to an international conference.
+
+**Deliverable D2.3**:
+
+**Task 2.4 Knowledge Transfer: Administrative**
+
+
+**Deliverable D2.4**:
 
 ## 3.2 Capacity of participants and consortium as a whole
 
