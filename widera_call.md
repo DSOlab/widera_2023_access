@@ -27,7 +27,7 @@ Union level;
 * Raised reputation, research profile and attractiveness of the coordinating institution from
 the Widening country and the research profile of its staff;
 
-Strengthened research management capacities and administrative skills of the staff
+* Strengthened research management capacities and administrative skills of the staff
 working in institutions from the Widening country;
 
 * Improved creativity supported by development of new approaches in Research and
