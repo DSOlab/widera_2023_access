@@ -181,13 +181,32 @@ satellite-based application market.
 | -----|-------|--------|------------|-------------|-----------|
 | WP1  | Project Management & Coordination | NTUA (1) | | 1 | 36 |
 | WP2  | Capacity Building | NTUA (1) | | 1 | 36 |
-| WP3  | Dissemination | NTUA (1) | | 1 | 36 |
+| WP3  | Networking & Dissemination | NTUA (1) | | 1 | 36 |
 
 | Task | Description | 2 | 4 | 8 | 12 | 14| 16| 18| 20 |22 | 24 | 26 | 28 | 30 |32 | 34 | 36 |
 |------|-------------|---|---|---|----|---|---|---|----|---|----|----|----|----|---|----|----|
-| 1.1  | Quality assurance, ristk management |||||||||||||||||
-| 1.2  | Project maagement, financial monitoring |||||||||||||||||
+| 1.1  | Quality assurance & risk management |||||||||||||||||
+| 1.2  | Project management & financial monitoring |||||||||||||||||
 | 1.3  | Project Reporting |||||||||||||||||
+| 2.1  | Knowledge Transfer: DORIS |||||||||||||||||
+| 2.2  | Knowledge Transfer: SLR |||||||||||||||||
+| 2.3  | Knowledge Transfer: VLBI |||||||||||||||||
+| 2.4  | Knowledge Transfer: Administration |||||||||||||||||
+| 3.1  | Exploitation |||||||||||||||||
+| 3.2  | Communication Activities |||||||||||||||||
+
+### WP1 Project Management & Coordination
+
+The objectives of this WP are to: 
+    * Establish a strong project management scheme
+    * Establish the appropriate communication and reporting channels to the European Commission
+    * Ensure successful achievement of the project objectives on time and within budget
+    * Establish an efficient electronic service for communications, and document exchanging 
+    * Realise synergies amongst the project members and effective exploitation of the project' s results
+    * Conduct continuous quality assurance activities for the operation of the project and the production of its scientific and technical results within its lifespan
+    * Ensure continuous monitoring of the project’s progress and timely initiation of corrective actions (if needed)
+    * Coordinate the organisation and execution of the various project meetings, and/or participation of the project in various external or self-organised events 
+    * Perform risk analysis and ethical and legal framework analysis to ensure successful and continuous compliance with ethical and legal standards concerning the project objectives
 
 
 ## 3.2 Capacity of participants and consortium as a whole
