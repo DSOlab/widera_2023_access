@@ -244,7 +244,9 @@ the twining research institutions
 * Lay the foundation for a long-term synergies and collaboration in the scientific 
 fields of expertise
 * Transfer scientific knowledge and expertise from the partners to the host institution/personnel
-* Transfer administrative knowledge and skills from the partners to the host institution
+* Transfer administrative knowledge and skills from the partners to the host institution, 
+increasing the host's capacity in claiming and managing research-intensive 
+projects
 
 **Task 2.1 Knowledge Transfer: DORIS**
 Inclusion of IPGP and/or CLS personnel in at least one PhD dissertation and one 
@@ -302,7 +304,10 @@ and at least one scientific publication submitted to an international conference
 **Deliverable D2.3**:
 
 **Task 2.4 Knowledge Transfer: Administrative**
-
+The twining partners (CLS, IPGP, GFZ and OSO) will transfer technical knowledge, 
+know-how and expertise to NTUA, concerning the writing and submitting of research 
+proposals, as well as the efficient administration of research intensive scientific 
+projects.
 
 **Deliverable D2.4**:
 
