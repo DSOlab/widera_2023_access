@@ -185,8 +185,8 @@ satellite-based application market.
 
 | Task | Description | 2 | 4 | 8 | 12 | 14| 16| 18| 20 |22 | 24 | 26 | 28 | 30 |32 | 34 | 36 |
 |------|-------------|---|---|---|----|---|---|---|----|---|----|----|----|----|---|----|----|
-| 1.1  | Quality assurance & risk management |||||||||||||||||
-| 1.2  | Project management & financial monitoring |||||||||||||||||
+| 1.1  | Quality assurance, risk management and project monitoring |||||||||||||||||
+| 1.2  | Day-to-day management, financial control and resource monitoring |||||||||||||||||
 | 1.3  | Project Reporting |||||||||||||||||
 | 2.1  | Knowledge Transfer: DORIS |||||||||||||||||
 | 2.2  | Knowledge Transfer: SLR |||||||||||||||||
@@ -202,13 +202,37 @@ The objectives of this WP are to:
 * Establish a strong project management scheme
 * Establish the appropriate communication and reporting channels to the European Commission
 * Ensure successful achievement of the project objectives on time and within budget
-* Establish an efficient electronic service for communications, and document exchanging 
-* Realise synergies amongst the project members and effective exploitation of the project' s results
-* Conduct continuous quality assurance activities for the operation of the project and the production of its scientific and technical results within its lifespan
+* Establish an efficient electronic service for communication and document exchanging between the consortium partners
+* Conduct continuous quality assurance activities for the implementation of the project and its results, within its lifespan
 * Ensure continuous monitoring of the project’s progress and timely initiation of corrective actions (if needed)
-* Coordinate the organisation and execution of the various project meetings, and/or participation of the project in various external or self-organised events 
+* Coordinate the planning and organisation of the various project meetings, and/or participation of the project in various external or self-organised events 
 * Perform risk analysis and ethical and legal framework analysis to ensure successful and continuous compliance with ethical and legal standards concerning the project objectives
 
+**Task 1.1 Quality assurance, risk management and project monitoring**
+Quality procedures include: control actions planned; time schedules; scientific 
+and technical requirement specifications and quality objectives; agreed definitions 
+of procedures for acceptance and quality control; appropriate tools for
+planning, monitoring and progress reporting; identify risk items and minimise 
+these; legal and ethical aspects within the project.
+
+**Deliverable D1.1**: Technical Quality Assurance Plan 
+
+**Task 1.2 Day-to-Day management, financial control and resource monitoring**
+Project management plan for the administration, financial control and resource 
+monitoring, communication with the EU and the consortium, preparation of all 
+project management documentation, including the required financial reports, 
+consortium internal communication strategy.
+
+**Deliverable D1.2**: Periodic Technical Coordination & Project Management 
+Report Versions I, II, III
+
+**Task 1.3 Project Reporting to EU** 
+Semi-annual reporting of achievements and status for each phase. The project 
+reports are used to report the progress of work carried out from the beginning of the
+project or the previous project report, while making deviations and major risks 
+and counter measures explicit.
+
+**Deliverable D1.3**: Interim & Final Reports
 
 ## 3.2 Capacity of participants and consortium as a whole
 
