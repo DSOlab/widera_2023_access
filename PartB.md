@@ -198,15 +198,16 @@ satellite-based application market.
 ### WP1 Project Management & Coordination
 
 The objectives of this WP are to: 
-    * Establish a strong project management scheme
-    * Establish the appropriate communication and reporting channels to the European Commission
-    * Ensure successful achievement of the project objectives on time and within budget
-    * Establish an efficient electronic service for communications, and document exchanging 
-    * Realise synergies amongst the project members and effective exploitation of the project' s results
-    * Conduct continuous quality assurance activities for the operation of the project and the production of its scientific and technical results within its lifespan
-    * Ensure continuous monitoring of the project’s progress and timely initiation of corrective actions (if needed)
-    * Coordinate the organisation and execution of the various project meetings, and/or participation of the project in various external or self-organised events 
-    * Perform risk analysis and ethical and legal framework analysis to ensure successful and continuous compliance with ethical and legal standards concerning the project objectives
+
+* Establish a strong project management scheme
+* Establish the appropriate communication and reporting channels to the European Commission
+* Ensure successful achievement of the project objectives on time and within budget
+* Establish an efficient electronic service for communications, and document exchanging 
+* Realise synergies amongst the project members and effective exploitation of the project' s results
+* Conduct continuous quality assurance activities for the operation of the project and the production of its scientific and technical results within its lifespan
+* Ensure continuous monitoring of the project’s progress and timely initiation of corrective actions (if needed)
+* Coordinate the organisation and execution of the various project meetings, and/or participation of the project in various external or self-organised events 
+* Perform risk analysis and ethical and legal framework analysis to ensure successful and continuous compliance with ethical and legal standards concerning the project objectives
 
 
 ## 3.2 Capacity of participants and consortium as a whole
