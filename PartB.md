@@ -189,13 +189,13 @@ satellite-based application market.
 | 1.1  | Quality assurance, risk management and project monitoring |||||||||||||||||
 | 1.2  | Day-to-day management, financial control and resource monitoring |||||||||||||||||
 | 1.3  | Project Reporting |||||||||||||||||
-| 2.1  | Knowledge Transfer: DORIS |||||||||||||||||
-| 2.2  | Knowledge Transfer: SLR |||||||||||||||||
-| 2.3  | Knowledge Transfer: VLBI |||||||||||||||||
-| 2.4  | Knowledge Transfer: Administration |||||||||||||||||
-| 3.1  | DORIS Data analysis Tools |||||||||||||||||
-| 3.2  | SLR Data Analysis Tools |||||||||||||||||
-| 3.3  | VLBI Data Analysis Tools |||||||||||||||||
+| [2.1](#wp2-t2-1)  | Knowledge Transfer: DORIS |||||||||||||||||
+| [2.2](#wp2-t2-2)  | Knowledge Transfer: SLR |||||||||||||||||
+| [2.3](#wp2-t2-3)  | Knowledge Transfer: VLBI |||||||||||||||||
+| [2.4](#wp2-t2-4)  | Knowledge Transfer: Administration |||||||||||||||||
+| [3.1](#wp3-t3-1)  | DORIS Data analysis Tools |||||||||||||||||
+| [3.2](#wp3-t3-2)  | SLR Data Analysis Tools |||||||||||||||||
+| [3.3](#wp3-t3-3)  | VLBI Data Analysis Tools |||||||||||||||||
 | 4.1  | Exploitation |||||||||||||||||
 | 4.2  | Communication Activities |||||||||||||||||
 | 4.3  | Open Science |||||||||||||||||
@@ -252,7 +252,7 @@ fields of expertise
 increasing the host's capacity in claiming and managing research-intensive 
 projects
 
-**Task 2.1 Knowledge Transfer: DORIS**
+**Task 2.1 Knowledge Transfer: DORIS** <a name="wp2-t2-1"></a>
 Inclusion of IPGP and/or CLS personnel in at least one PhD dissertation and one 
 post-doc, carried out in NTUA. 
 Short term visits of NTUA personnel, PhD and PostDoc students to CLS and IPGP, 
@@ -268,7 +268,7 @@ and at least one scientific publication submitted to an international conference
 **Deliverable D2.1**:
 Free and open-source DORIS data analysis software for precise orbit determination.
 
-**Task 2.2 Knowledge Transfer: SLR**
+**Task 2.2 Knowledge Transfer: SLR** <a name="wp2-t2-2"></a>
 Inclusion of GFZ personnel in at least one PhD dissertation carried out in NTUA. 
 Short term visits of NTUA personnel and PhD students to GFZ, 
 where they will be taught specifics of the SLR technique, data analysis schemes 
@@ -285,7 +285,7 @@ and at least one scientific publication submitted to an international conference
 **Deliverable D2.2**:
 Free and open-source SLR data analysis software for precise orbit determination.
 
-**Task 2.3 Knowledge Transfer: VLBI**
+**Task 2.3 Knowledge Transfer: VLBI** <a name="wp2-t2-3"></a>
 Inclusion of OSO personnel in at least one PhD dissertation carried out in NTUA. 
 Short term visits of NTUA personnel and PhD students to OSO, 
 where they will be taught specifics of the VLBI technique, data analysis schemes 
@@ -301,7 +301,7 @@ and at least one scientific publication submitted to an international conference
 
 **Deliverable D2.3**:
 
-**Task 2.4 Knowledge Transfer: Administrative**
+**Task 2.4 Knowledge Transfer: Administrative** <a name="wp2-t2-4"></a>
 The twining partners (CLS, IPGP, GFZ and OSO) will transfer technical knowledge, 
 know-how and expertise to NTUA, concerning the writing and submitting of research 
 proposals, as well as the efficient administration of research intensive scientific 
@@ -311,6 +311,7 @@ projects.
 
 ### WP3 Space Geodesy Software Tool-Box <a name="wp3"></a>
 
+**Objectives**
 The objective of this WP is for the host institute to build its own scientific 
 software toolset, to perform close to state-of-the-art data analysis for 
 observations collected by both DORIS and SLR techniques. Additionally, the package 
@@ -333,14 +334,17 @@ institute in reaching this goal, via individual contributions in their respectiv
 areas of expertise. 
 
 NTUA will adhere to a free and open-source policy for all software tools to be 
-built within the framework of this WP.
+built within the framework of this WP. Software implementation will be carried out 
+on the public domain via dedicated repositories (hosted e.g. on 
+[gitlab](https://about.gitlab.com/) so at to enable a rigorous development platform 
+for the consortium parties and easy progress monitoring (including the Commission).
 
 **Task 3.1 Precise orbit determination via DORIS** <a name="wp3-t3-1"></a>
 CLS and IPGP will provide assistance to NTUA aiming at the upgrade and refinement 
 of its own DORIS analysis software, to perform precise orbit determination and 
-estimation of geodetic parameters. 
+estimation of geodetic parameters.
 
-**Deliverable D3.1**: free and open-source software toolbox for analysis of DORIS observations.
+**Deliverable D3.1**: Free and open-source software toolbox for analysis of DORIS observations.
 
 **Task 3.2 Precise orbit determination via SLR** <a name="wp3-t3-2"></a>
 GFZ will assist NTUA in adding efficient observation analysis of SLR observations 
@@ -350,7 +354,7 @@ importance for space geodesy. The software components to be implemented in this
 Task, will allow precise orbit determination of Earth orbiting satellites via 
 SLR data and the strengthening of geodetic parameter estimation.
 
-**Deliverable D3.2**: free and open-source software toolbox for analysis of SLR observations.
+**Deliverable D3.2**: Free and open-source software toolbox for analysis of SLR observations.
 
 **Task 3.3 Analysis and estimation of Earth Orientation Parameters** <a name="wp3-t3-3"></a>
 VLBI is known for its importance in the observation of the Earth's orientation 
