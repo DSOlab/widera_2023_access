@@ -313,21 +313,54 @@ projects.
 
 The objective of this WP is for the host institute to build its own scientific 
 software toolset, to perform close to state-of-the-art data analysis for 
-observations collected by both DORIS and SLR techniques. The software will be 
-specifically targeted towards precise orbit determination and estimation of 
-geodetic parameters. All involved partners will assist the host institute in 
-reaching this goal, via individual contributions in their respective areas of 
-expertise. 
+observations collected by both DORIS and SLR techniques. Additionally, the package 
+will be able to efficiently incorporate recent advances and high-quality products 
+from VLBI analysis. Such a toolbox will is expected to significantly enhance 
+the host's capacity to perform state-of-the-art research on a wide range of 
+geoscience-related topics. Furthermore, it will enable NTUA's involvement in 
+international, high-prestige consortia (such as the IDS and ILRS) significantly 
+enhancing its international status and networking capabilities.
 
-**Task 3.1 **
-CLS and IPGP will provide assistance to NTUA for the latter to build its own 
-processing software, thus gaining hands-on experience and efficiency in the 
-technique.
-GFZ will provide assistance to NTUA for the latter to build its own 
-processing software, thus gaining hands-on experience and efficiency in the 
-technique.
+Since both DORIS and SLR processing is tailored to the specifics of each observed 
+space vehicle, the consortium will hand pick a minimum of three satellites, with 
+payload capacity for both techniques, for the software development. Design principles 
+though will conform to extensibility, so that NTUA will be later able to incorporate 
+more satellites (for each technique) on its own, with minimal cost.
 
-**Deliverable D3.1**:
+The software will be specifically targeted towards precise orbit determination 
+and estimation of geodetic parameters. All involved partners will assist the host 
+institute in reaching this goal, via individual contributions in their respective 
+areas of expertise. 
+
+NTUA will adhere to a free and open-source policy for all software tools to be 
+built within the framework of this WP.
+
+**Task 3.1 Precise orbit determination via DORIS** <a name="wp3-t3-1"></a>
+CLS and IPGP will provide assistance to NTUA aiming at the upgrade and refinement 
+of its own DORIS analysis software, to perform precise orbit determination and 
+estimation of geodetic parameters. 
+
+**Deliverable D3.1**: free and open-source software toolbox for analysis of DORIS observations.
+
+**Task 3.2 Precise orbit determination via SLR** <a name="wp3-t3-2"></a>
+GFZ will assist NTUA in adding efficient observation analysis of SLR observations 
+within its own software toolset. This Task, will build on [Task 3.1](#wp3-t3-1), 
+and will result in severely upgrading the toolset with a technique of critical 
+importance for space geodesy. The software components to be implemented in this 
+Task, will allow precise orbit determination of Earth orbiting satellites via 
+SLR data and the strengthening of geodetic parameter estimation.
+
+**Deliverable D3.2**: free and open-source software toolbox for analysis of SLR observations.
+
+**Task 3.3 Analysis and estimation of Earth Orientation Parameters** <a name="wp3-t3-3"></a>
+VLBI is known for its importance in the observation of the Earth's orientation 
+parameters and fluctuations in the length of day. Such observations are of significance 
+importance in Space Geodesy, since they enable e.g. the permanent tie between Celestial 
+and Terrestrial Reference Frames. OSO will assist NTUA in incorporating a state-of-the-art 
+handling of Earth Orientation Parameters and consequently reference frame transformation 
+schema in its own software toolset.
+
+**Deliverable D3.3**: Technical report on the 
 
 ### WP4 Networking & Dissemination <a name="wp4"></a>
 
