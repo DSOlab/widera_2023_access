@@ -202,6 +202,8 @@ satellite-based application market.
 | [4.4](#wp4-t4-4)  | Open-Access Publications|||||||||||||||||
 | [4.5](#wp4-t4-5)  | Organization of Two Summer Schools|||||||||||||||||
 
+![gantt chart](gantt_chart.png)
+
 ### WP1 Project Management & Coordination <a name="wp1"></a>
 
 The objectives of this WP are to: 
