@@ -267,68 +267,92 @@ for each technique of interest. Crucial scientific output will be generated and
 the host can incorporate lessons learned using a best-practices approach.
 * A number of short term visits from the partners to the host institute. These 
 visits are expected to consolidate a sound, solid communication channel between the 
-parties. Additionally, 
-
-* Transfer administrative knowledge and skills from the partners to the host institution, 
-increasing the host's capacity in claiming and managing research-intensive 
+parties. Additionally, the expert partners will perform lectures and seminars 
+on technical matters as well as inspect progress of [WP3](#wp3)
+* Via the established communication channels, transfer of administrative knowledge 
+and skills from the partners to the host institution, will also take place,
+aiming at increasing the host's capacity in claiming and managing research-intensive 
 projects
 
 **Task 2.1 Knowledge Transfer: DORIS** <a name="wp2-t2-1"></a>
-Inclusion of IPGP and/or CLS personnel in at least one PhD dissertation and one 
+IPGP and/or CLS personnel will co-supervise at least one PhD dissertation and one 
 post-doc, carried out in NTUA. 
+
 Short term visits of NTUA personnel, PhD and PostDoc students to CLS and IPGP, 
 where they will be taught specifics of the DORIS technique, data analysis schemes 
 used in the expert institutes and relevant applications. 
+
 Short term visits of CLS and IPGP personnel to NTUA, where they will perform schooling 
 for NTUA personnel and PhD and PostDoc students.
+
 IPGP and CLS will introduce NTUA to the IDS community, thus enabling further long-term 
 networking in a high-caliber service with prestigious international members.
+
 Co-authorship of one scientific paper, to be published in peer-reviewed journal, 
 and at least one scientific publication submitted to an international conference.
 
-**Deliverable D2.1**:
-Free and open-source DORIS data analysis software for precise orbit determination.
+**Deliverable D2.1.1**:
+Co-supervision of one PhD dissertation and one post-doc.
+**Deliverable D2.1.2**:
+Co-authorship of one scientific paper in peer-reviewed journal and one publication 
+in international conference.
 
 **Task 2.2 Knowledge Transfer: SLR** <a name="wp2-t2-2"></a>
 Inclusion of GFZ personnel in at least one PhD dissertation carried out in NTUA. 
-Short term visits of NTUA personnel and PhD students to GFZ, 
-where they will be taught specifics of the SLR technique, data analysis schemes 
-used in the expert institutes and relevant applications. NTUA staff will also 
-make a guided visit at the SLR station in Potsdam (operated by GFZ), where they 
+
+Short term visits of NTUA personnel and PhD students to GFZ, where they will 
+be taught specifics of the SLR technique, data analysis schemes used in the 
+expert institutes and relevant applications. NTUA staff will also make a 
+guided visit at the SLR station in Potsdam (operated by GFZ), where they 
 will be introduced to the instrumentation and operational aspects of the site.
+
 Short term visits of GFZ personnel to NTUA, where they will perform schooling 
 for NTUA personnel and PhD students.
+
 GFZ will introduce NTUA to the ILRS community, thus enabling further long-term 
 networking in a high-caliber service with prestigious international members.
 Co-authorship of one scientific paper, to be published in peer-reviewed journal, 
 and at least one scientific publication submitted to an international conference.
 
-**Deliverable D2.2**:
-Free and open-source SLR data analysis software for precise orbit determination.
+**Deliverable D2.2.1**:
+Co-supervision of one PhD dissertation and one post-doc.
+**Deliverable D2.2.2**:
+Co-authorship of one scientific paper in peer-reviewed journal and one publication 
+in international conference.
 
 **Task 2.3 Knowledge Transfer: VLBI** <a name="wp2-t2-3"></a>
-Inclusion of OSO personnel in at least one PhD dissertation carried out in NTUA. 
-Short term visits of NTUA personnel and PhD students to OSO, 
-where they will be taught specifics of the VLBI technique, data analysis schemes 
-used in the expert institutes and relevant applications. NTUA staff will also 
-make a guided visit at the VLBI station in Onsala (operated by OSO), where they 
-will be introduced to the instrumentation and operational aspects of the site.
+Co-supervision of at least one PhD dissertation carried out in NTUA by OSO.
+
+Short term visits of NTUA personnel and PhD students to OSO, where they will 
+be taught specifics of the VLBI technique, data analysis schemes used in the 
+expert institutes and relevant applications. 
+
+NTUA staff will also make a guided visit at the VLBI station in Onsala (operated 
+by OSO), where they will be introduced to the instrumentation and operational 
+aspects of the site.
+
 Short term visits of OSO personnel to NTUA, where they will perform schooling 
 for NTUA personnel and PhD students.
+
 OSO will introduce NTUA to the IVS community, thus enabling further long-term 
 networking in a high-caliber service with prestigious international members.
 Co-authorship of one scientific paper, to be published in peer-reviewed journal, 
 and at least one scientific publication submitted to an international conference.
 
-**Deliverable D2.3**:
+**Deliverable D2.3.1**:
+Co-supervision of one PhD dissertation and one post-doc.
+**Deliverable D2.3.2**:
+Co-authorship of one scientific paper in peer-reviewed journal and one publication 
+in international conference.
 
 **Task 2.4 Knowledge Transfer: Administrative** <a name="wp2-t2-4"></a>
 The twining partners (CLS, IPGP, GFZ and OSO) will transfer technical knowledge, 
 know-how and expertise to NTUA, concerning the writing and submitting of research 
-proposals, as well as the efficient administration of research intensive scientific 
-projects.
+proposals, as well as the efficient administration of research intensive 
+scientific projects.
 
-**Deliverable D2.4**:
+**Deliverable D2.4.1**:
+Submission of two research proposals to national and/or European authorities.
 
 ### WP3 Space Geodesy Software Tool-Box <a name="wp3"></a>
 
