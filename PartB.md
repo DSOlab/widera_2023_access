@@ -186,9 +186,9 @@ satellite-based application market.
 
 | Task | Description | 2 | 4 | 8 | 12 | 14| 16| 18| 20 |22 | 24 | 26 | 28 | 30 |32 | 34 | 36 |
 |------|-------------|---|---|---|----|---|---|---|----|---|----|----|----|----|---|----|----|
-| 1.1  | Quality assurance, risk management and project monitoring |||||||||||||||||
-| 1.2  | Day-to-day management, financial control and resource monitoring |||||||||||||||||
-| 1.3  | Project Reporting |||||||||||||||||
+| [1.1](#wp1-t1-1)  | Quality assurance, risk management and project monitoring |||||||||||||||||
+| [1.2](#wp1-t1-2)  | Day-to-day management, financial control and resource monitoring |||||||||||||||||
+| [1.3](#wp1-t1-3)  | Project Reporting |||||||||||||||||
 | [2.1](#wp2-t2-1)  | Knowledge Transfer: DORIS |||||||||||||||||
 | [2.2](#wp2-t2-2)  | Knowledge Transfer: SLR |||||||||||||||||
 | [2.3](#wp2-t2-3)  | Knowledge Transfer: VLBI |||||||||||||||||
@@ -196,9 +196,9 @@ satellite-based application market.
 | [3.1](#wp3-t3-1)  | DORIS Data analysis Tools |||||||||||||||||
 | [3.2](#wp3-t3-2)  | SLR Data Analysis Tools |||||||||||||||||
 | [3.3](#wp3-t3-3)  | VLBI Data Analysis Tools |||||||||||||||||
-| 4.1  | Exploitation |||||||||||||||||
-| 4.2  | Communication Activities |||||||||||||||||
-| 4.3  | Open Science |||||||||||||||||
+| 4.1  | |||||||||||||||||
+| 4.2  | |||||||||||||||||
+| 4.3  | |||||||||||||||||
 
 ### WP1 Project Management & Coordination <a name="wp1"></a>
 
@@ -288,14 +288,8 @@ for NTUA personnel and PhD and PostDoc students.
 IPGP and CLS will introduce NTUA to the IDS community, thus enabling further long-term 
 networking in a high-caliber service with prestigious international members.
 
-Co-authorship of one scientific paper, to be published in peer-reviewed journal, 
-and at least one scientific publication submitted to an international conference.
-
 **Deliverable D2.1.1**:
 Co-supervision of one PhD dissertation and one post-doc.
-**Deliverable D2.1.2**:
-Co-authorship of one scientific paper in peer-reviewed journal and one publication 
-in international conference.
 
 **Task 2.2 Knowledge Transfer: SLR** <a name="wp2-t2-2"></a>
 Inclusion of GFZ personnel in at least one PhD dissertation carried out in NTUA. 
@@ -311,14 +305,9 @@ for NTUA personnel and PhD students.
 
 GFZ will introduce NTUA to the ILRS community, thus enabling further long-term 
 networking in a high-caliber service with prestigious international members.
-Co-authorship of one scientific paper, to be published in peer-reviewed journal, 
-and at least one scientific publication submitted to an international conference.
 
 **Deliverable D2.2.1**:
 Co-supervision of one PhD dissertation and one post-doc.
-**Deliverable D2.2.2**:
-Co-authorship of one scientific paper in peer-reviewed journal and one publication 
-in international conference.
 
 **Task 2.3 Knowledge Transfer: VLBI** <a name="wp2-t2-3"></a>
 Co-supervision of at least one PhD dissertation carried out in NTUA by OSO.
@@ -336,14 +325,9 @@ for NTUA personnel and PhD students.
 
 OSO will introduce NTUA to the IVS community, thus enabling further long-term 
 networking in a high-caliber service with prestigious international members.
-Co-authorship of one scientific paper, to be published in peer-reviewed journal, 
-and at least one scientific publication submitted to an international conference.
 
 **Deliverable D2.3.1**:
 Co-supervision of one PhD dissertation and one post-doc.
-**Deliverable D2.3.2**:
-Co-authorship of one scientific paper in peer-reviewed journal and one publication 
-in international conference.
 
 **Task 2.4 Knowledge Transfer: Administrative** <a name="wp2-t2-4"></a>
 The twining partners (CLS, IPGP, GFZ and OSO) will transfer technical knowledge, 
@@ -412,6 +396,40 @@ schema in its own software toolset.
 **Deliverable D3.3**: Technical report on the 
 
 ### WP4 Networking & Dissemination <a name="wp4"></a>
+
+**Objectives**
+The objective of this WP is the dissemination of scientific output and results 
+gained throughout the coarse of ACRONYM. The consortium will adhere to an open-science 
+policy, sharing scientific outcome with all interested parties. To allow for 
+efficient sharing, both among the consortium partners and with the scientific 
+community in general, a dedicated web site will be crated granting open access 
+and browsing of the project's intermediate progress/outcome. 
+
+**Task 4.1 Design and Implementation of a dedicated web site** 
+
+**Task 4.2 Sharing of technical knowledge and know-how** 
+Lectures and presentations prepared by the consortium experts (see [WP2](#wp2) 
+will be made available (on-line, free access) to any interested parties, on demand.
+
+**Task 4.3 Promoting Innovation**
+The host institute will organize a seminar to take place in Greece, for the presentation 
+of ACRONYM, dissemination of its scientific output and results and promote innovation 
+in the field of Space Geodesy and Orbit Determination. The expert partners will 
+introduce and present novelties and current and future trends and applications 
+that can have an effect in the related market. The seminar will be open and 
+targeted towards Greece's public research organizations as well as the private 
+sector.
+
+**Task 4.4 Open-Access Publications**
+Each of the expert partners will collaborate with the host institution in the 
+co-authorship of one scientific paper (in their respective fields of expertise), 
+to be published in peer-reviewed journal, and at least one scientific publication 
+submitted to an international conference. The scientific papers to be published 
+will be *open-access*.
+
+**Deliverable D2.3.2**:
+Co-authorship of one scientific paper in peer-reviewed journal and one publication 
+in international conference.
 
 ## 3.2 Capacity of participants and consortium as a whole
 
