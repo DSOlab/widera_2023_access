@@ -196,9 +196,11 @@ satellite-based application market.
 | [3.1](#wp3-t3-1)  | DORIS Data analysis Tools |||||||||||||||||
 | [3.2](#wp3-t3-2)  | SLR Data Analysis Tools |||||||||||||||||
 | [3.3](#wp3-t3-3)  | VLBI Data Analysis Tools |||||||||||||||||
-| 4.1  | |||||||||||||||||
-| 4.2  | |||||||||||||||||
-| 4.3  | |||||||||||||||||
+| [4.1](#wp4-t4-1)  | Design and Implementation of a dedicated web site|||||||||||||||||
+| [4.2](#wp4-t4-2)  | Sharing of technical knowledge and know-how|||||||||||||||||
+| [4.3](#wp4-t4-3)  | Promoting Innovation|||||||||||||||||
+| [4.4](#wp4-t4-4)  | Open-Access Publications|||||||||||||||||
+| [4.5](#wp4-t4-5)  | Organization of Two Summer Schools|||||||||||||||||
 
 ### WP1 Project Management & Coordination <a name="wp1"></a>
 
@@ -411,21 +413,21 @@ promoting know-how, innovation and familiarization with trending and future
 applications relevant to field. Target audience will be both the public and the 
 private sector.
 
-**Task 4.1 Design and Implementation of a dedicated web site** 
+**Task 4.1 Design and Implementation of a dedicated web site**  <a name="wp4-t4-1"></a>
 Th host institute will design and implement a dedicated web site for the project, 
 assisting partner networking capabilities and efficiency as well as dissemination 
 of ACRONYM outcomes and results and in general outreach material. 
 
 **Deliverable D4.1** Project web page
 
-**Task 4.2 Sharing of technical knowledge and know-how** 
+**Task 4.2 Sharing of technical knowledge and know-how**  <a name="wp4-t4-2"></a>
 Lectures and presentations prepared by the consortium experts (see [WP2](#wp2) 
 will be made available (on-line, free access) to any interested parties, on 
 demand. Users will be able to browse content and watch video-lectures.
 
 **Deliverable D4.2** Online video-lectures for each technique (DORIS, SLR and VLBI)
 
-**Task 4.3 Promoting Innovation**
+**Task 4.3 Promoting Innovation** <a name="wp4-t4-3"></a>
 The host institute will organize a seminar to take place in Greece, for the presentation 
 of ACRONYM, dissemination of its scientific output and results and promote innovation 
 in the field of Space Geodesy, Orbit Determination and Space Studies in general. 
@@ -436,7 +438,7 @@ as the private sector.
 
 **Deliverable D4.3** Seminar on recent trends in Space Geodesy and Orbit Determination
 
-**Task 4.4 Open-Access Publications**
+**Task 4.4 Open-Access Publications** <a name="wp4-t4-4"></a>
 Each of the expert partners will collaborate with the host institution in the 
 co-authorship of one scientific paper (in their respective fields of expertise), 
 to be published in peer-reviewed journal, and at least one scientific publication 
@@ -450,9 +452,10 @@ will be *open-access*.
 **Deliverable D4.8** Publication at an international conference on SLR
 **Deliverable D4.9** Publication at an international conference on VLBI 
 
-**Task 4.5 Organization of Two Summer Schools** 
+**Task 4.5 Organization of Two Summer Schools**  <a name="wp4-t4-5"></a>
+The consortium will organize two summer schools on the host institute's country, 
 
-**Deliverable D2.4.10**:
+**Deliverable D2.4.10**: Summer School I and Summer School II
 
 ## 3.2 Capacity of participants and consortium as a whole
 
