@@ -239,15 +239,36 @@ and counter measures explicit.
 
 **Deliverable D1.3**: Interim & Final Reports
 
-### WP2 Capacity Building <a name="wp2"></a>
+### WP2 Transfer of Excellence (Capacity Building) <a name="wp2"></a>
 
-The objectives of this WP are to: 
+**Objective**
+The objective of this WP is to build excellence capacity in the host institute 
+via the transfer of knowledge and best-practices from the top-level, high-prestige 
+institutes of the consortium. The consortium will establish efficient, solid 
+communication and networking channels between the host and the twining research 
+institutions. Additionally, it will lay the foundation for long-term synergies 
+and collaboration in the respective scientific fields of expertise.
 
-* Create efficient, solid communication and networking channels between the host and 
-the twining research institutions
-* Lay the foundation for a long-term synergies and collaboration in the scientific 
-fields of expertise
-* Transfer scientific knowledge and expertise from the partners to the host institution/personnel
+The transferring of scientific knowledge from the partners 
+to the host, will involve experienced personnel from the respective knowledge nodes 
+on the one hand, and personnel, NTUA Professors and PhD/post-doc students on the 
+other endpoint. Each of the consortium partners, will undertake the task of 
+transferring knowledge, via:
+* A series of on-line, remote presentations and classes in a one-to-many sense, where 
+different members of the top-level institute's personnel will teach a targeted subgroup 
+of the host's staff, technique-specific details 
+* A seamless communication channel, via which the host's staff will be able to 
+request assistance in technique-specific matters
+* A number of short term visits from the host's staff to the partners. 
+During these visits, there will be a transfer of knowledge and expertise based on 
+a hands-on approach. Host institute's personnel will be able to inspect and be 
+taught and informed on the specialized software tools used by the top-level partners 
+for each technique of interest. Crucial scientific output will be generated and 
+the host can incorporate lessons learned using a best-practices approach.
+* A number of short term visits from the partners to the host institute. These 
+visits are expected to consolidate a sound, solid communication channel between the 
+parties. Additionally, 
+
 * Transfer administrative knowledge and skills from the partners to the host institution, 
 increasing the host's capacity in claiming and managing research-intensive 
 projects
