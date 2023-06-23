@@ -288,7 +288,7 @@ for NTUA personnel and PhD and PostDoc students.
 IPGP and CLS will introduce NTUA to the IDS community, thus enabling further long-term 
 networking in a high-caliber service with prestigious international members.
 
-**Deliverable D2.1.1**:
+**Deliverable D2.1**:
 Co-supervision of one PhD dissertation and one post-doc.
 
 **Task 2.2 Knowledge Transfer: SLR** <a name="wp2-t2-2"></a>
@@ -306,7 +306,7 @@ for NTUA personnel and PhD students.
 GFZ will introduce NTUA to the ILRS community, thus enabling further long-term 
 networking in a high-caliber service with prestigious international members.
 
-**Deliverable D2.2.1**:
+**Deliverable D2.2**:
 Co-supervision of one PhD dissertation and one post-doc.
 
 **Task 2.3 Knowledge Transfer: VLBI** <a name="wp2-t2-3"></a>
@@ -326,7 +326,7 @@ for NTUA personnel and PhD students.
 OSO will introduce NTUA to the IVS community, thus enabling further long-term 
 networking in a high-caliber service with prestigious international members.
 
-**Deliverable D2.3.1**:
+**Deliverable D2.3**:
 Co-supervision of one PhD dissertation and one post-doc.
 
 **Task 2.4 Knowledge Transfer: Administrative** <a name="wp2-t2-4"></a>
@@ -335,7 +335,7 @@ know-how and expertise to NTUA, concerning the writing and submitting of researc
 proposals, as well as the efficient administration of research intensive 
 scientific projects.
 
-**Deliverable D2.4.1**:
+**Deliverable D2.4**:
 Submission of two research proposals to national and/or European authorities.
 
 ### WP3 Space Geodesy Software Tool-Box <a name="wp3"></a>
@@ -405,20 +405,36 @@ efficient sharing, both among the consortium partners and with the scientific
 community in general, a dedicated web site will be crated granting open access 
 and browsing of the project's intermediate progress/outcome. 
 
+Dissemination will also aim in improving capacity and involvement of the Widening 
+country in Space Geodesy and the wider field of Space studies in general, via 
+promoting know-how, innovation and familiarization with trending and future 
+applications relevant to field. Target audience will be both the public and the 
+private sector.
+
 **Task 4.1 Design and Implementation of a dedicated web site** 
+Th host institute will design and implement a dedicated web site for the project, 
+assisting partner networking capabilities and efficiency as well as dissemination 
+of ACRONYM outcomes and results and in general outreach material. 
+
+**Deliverable D4.1** Project web page
 
 **Task 4.2 Sharing of technical knowledge and know-how** 
 Lectures and presentations prepared by the consortium experts (see [WP2](#wp2) 
-will be made available (on-line, free access) to any interested parties, on demand.
+will be made available (on-line, free access) to any interested parties, on 
+demand. Users will be able to browse content and watch video-lectures.
+
+**Deliverable D4.2** Online video-lectures for each technique (DORIS, SLR and VLBI)
 
 **Task 4.3 Promoting Innovation**
 The host institute will organize a seminar to take place in Greece, for the presentation 
 of ACRONYM, dissemination of its scientific output and results and promote innovation 
-in the field of Space Geodesy and Orbit Determination. The expert partners will 
-introduce and present novelties and current and future trends and applications 
-that can have an effect in the related market. The seminar will be open and 
-targeted towards Greece's public research organizations as well as the private 
-sector.
+in the field of Space Geodesy, Orbit Determination and Space Studies in general. 
+The expert partners will introduce and present novelties and current and future 
+trends and applications that can have an effect in the related market. The seminar 
+will be open and targeted towards Greece's public research organizations as well 
+as the private sector.
+
+**Deliverable D4.3** Seminar on recent trends in Space Geodesy and Orbit Determination
 
 **Task 4.4 Open-Access Publications**
 Each of the expert partners will collaborate with the host institution in the 
@@ -427,9 +443,16 @@ to be published in peer-reviewed journal, and at least one scientific publicatio
 submitted to an international conference. The scientific papers to be published 
 will be *open-access*.
 
-**Deliverable D2.3.2**:
-Co-authorship of one scientific paper in peer-reviewed journal and one publication 
-in international conference.
+**Deliverable D4.4** Open access scientific paper in peer-reviewed journal on DORIS
+**Deliverable D4.5** Open access scientific paper in peer-reviewed journal on SLR
+**Deliverable D4.6** Open access scientific paper in peer-reviewed journal on VLBI
+**Deliverable D4.7** Publication at an international conference on DORIS
+**Deliverable D4.8** Publication at an international conference on SLR
+**Deliverable D4.9** Publication at an international conference on VLBI 
+
+**Task 4.5 Organization of Two Summer Schools** 
+
+**Deliverable D2.4.10**:
 
 ## 3.2 Capacity of participants and consortium as a whole
 
