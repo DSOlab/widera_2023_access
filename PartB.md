@@ -342,6 +342,12 @@ scientific projects.
 **Deliverable D2.4**:
 Submission of two research proposals to national and/or European authorities.
 
+**Critical Risks**
+Failure to travel between consortium institutes/countries (e.g. due to health measures 
+imposed for COVID-19 safety). If such a situation shall arise, then the partners will 
+perform the required tasks via online platforms, utilizing experience gained throughout 
+the last few years of security measures.
+
 ### WP3 Space Geodesy Software Tool-Box <a name="wp3"></a>
 
 **Objectives**
@@ -398,6 +404,34 @@ handling of Earth Orientation Parameters and consequently reference frame transf
 schema in its own software toolset.
 
 **Deliverable D3.3**: Technical report on the 
+
+**Critical Risks**
+Failure to fully implement the Space Geodesy tool-box. Due to the partner's expertise 
+in such tasks, and the availability of a relevant package that can act as a fundamental 
+building block, such a risk is considered extremely small. If however such a situation 
+arises at some minimal extent, then the consortium will limit the number of involved 
+satellites (e.g. from three to two or one).
+
+The expertise of the partners can assure the establishment of an efficient and 
+robust hierarchy of tasks to be implemented for the software to be built. Specific, 
+timely tasks will be set and checked at completion, working towards an ever-growing 
+accuracy and quality level. 
+
+If the software build does not reach state-of-the-art standards (upon project 
+completion), the host institute will have already gained the knowledge and know-how 
+to further refine it and will have already submitted proposals to extend its 
+funding and support via relevant research projects. The network of collaborators 
+that will have been established, will guarantee its on-going support in technical 
+matters.
+
+**Milestones**
+* Validate usage and manipulation of Earth Orientation Parameters
+* Perform orbit determination via DORIS
+* Perform orbit determination via SLR
+* Incorporate attitude for first satellite, refine to Precise Orbit Determination 
+* Consistency between DORIS and SLR
+* Validate estimation of Geodetic Parameters
+* Incorporate attitude for second and third satellites
 
 ### WP4 Networking & Dissemination <a name="wp4"></a>
 
