@@ -256,8 +256,20 @@ and collaboration in the respective scientific fields of expertise.
 The transferring of scientific knowledge from the partners 
 to the host, will involve experienced personnel from the respective knowledge nodes 
 on the one hand, and personnel, NTUA Professors and PhD/post-doc students on the 
-other endpoint. Each of the consortium partners, will undertake the task of 
-transferring knowledge, via:
+other endpoint. The first step towards knowledge exchange will be the recognition of 
+the host's current scientific and technological capacity and accordingly the 
+identification of gaps, needs and focal points for the closing of the scientific
+gap between the top-class institutes and the host. Accordingly, a knowledge transfer
+plan will be laid out, targeting a hierarchically ordered list of scientific, technical 
+and research questions.
+
+For each technique involved, NTUA and the corresponding expert institute will consolidate 
+an online, continuous, sound and seamless communication channel (e.g. via the 
+selection of a fitting teleconference platform), via which the transferring of 
+excellence (according to the established plan) will take place throughout the 
+time-span of ACRONYM.
+
+Each of the consortium partners, will undertake the task of transferring knowledge, via:
 * A series of on-line, remote presentations and classes in a one-to-many sense, where 
 different members of the top-level institute's personnel will teach a targeted subgroup 
 of the host's staff, technique-specific details 
@@ -347,6 +359,13 @@ Failure to travel between consortium institutes/countries (e.g. due to health me
 imposed for COVID-19 safety). If such a situation shall arise, then the partners will 
 perform the required tasks via online platforms, utilizing experience gained throughout 
 the last few years of security measures.
+
+**Milestones**
+* Recognition/identification of current technical capacity of host institute from 
+partners and establishment of a transfer knowledge plan
+* Establishment of a seamless communication and knowledge transfer channel
+* Submission of first research proposal
+* Submission of second research proposal
 
 ### WP3 Space Geodesy Software Tool-Box <a name="wp3"></a>
 
@@ -447,7 +466,16 @@ Dissemination will also aim in improving capacity and involvement of the Widenin
 country in Space Geodesy and the wider field of Space studies in general, via 
 promoting know-how, innovation and familiarization with trending and future 
 applications relevant to field. Target audience will be both the public and the 
-private sector.
+private sector. This effort will be performed both electronically, via the dedicated 
+web site (e.g. by hosting lecture videos) and by seminars/workshops and summer schools 
+(through physical presence of the partners) in the host institution's country.
+
+The consortium will also publish three scientific papers (one per each technique involved) 
+in high impact factor, peer-reviewed scientific journals, aiming among others, in the 
+enhancement of the prestige and international exposure of the host institute and 
+its personnel. The papers will conform to an "open-access" policy, promoting (host) 
+publicity and open science. Towards the same goal, the consortium will also attend 
+international scientific conferences, presenting scientific outcomes of ACRONYM.
 
 **Task 4.1 Design and Implementation of a dedicated web site**  <a name="wp4-t4-1"></a>
 Th host institute will design and implement a dedicated web site for the project, 
@@ -492,6 +520,17 @@ will be *open-access*.
 The consortium will organize two summer schools on the host institute's country, 
 
 **Deliverable D2.4.10**: Summer School I and Summer School II
+
+**Critical Risks**
+* Failure to publish article(s) in high impact factor scientific journals. Such a risk, 
+although considered, is evaluated as highly impossible, due to the role of the consortium 
+partners as key players in the respective scientific fields. This fact enables the 
+partners to have a deep understanding of current trends, open scientific and research 
+questions, and a clear roadmap of recent advancements and needs. Shall any submission 
+problems arise (e.g. rejection of a submitted manuscript) the involved partners will 
+seek to publish in an international journal with an as high as possible impact factor, 
+aiming at the highest possible enhancement of the host institute's prestige.
+
 
 ## 3.2 Capacity of participants and consortium as a whole
 
