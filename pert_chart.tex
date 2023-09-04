@@ -3,15 +3,35 @@
 \usepackage{tikz}
 \usetikzlibrary{positioning}
 \usetikzlibrary{shapes,arrows,arrows,positioning,fit}
+\usepackage{lscape}
+
+\definecolor{t1}{RGB}{200,157,206}
+\definecolor{t2}{RGB}{255,219,182}
+\definecolor{t3}{RGB}{209,230,239}
+\definecolor{t4}{RGB}{232,242,161}
+\definecolor{t5}{RGB}{223,151,154}
+\definecolor{t6}{RGB}{250,225,128}
 
 \begin{document}
-
+\begin{landscape}
 \begin{figure}
  	\tikzstyle{decision} = [diamond, draw, fill=blue!20, 
  	text width=5.5em, text badly centered, inner sep=0pt]
- 	\tikzstyle{block} = [rectangle, draw, fill=blue!20, 
- 	text width=10em, text centered, rounded corners, minimum height=2em]
- 	\tikzstyle{line} = [draw, -latex']
+
+ 	\tikzstyle{block1} = [rectangle, draw, fill=t1!20, 
+ 	text width=6em, text centered, rounded corners, minimum height=2em]
+ 	\tikzstyle{block2} = [rectangle, draw, fill=t2!20, 
+ 	text width=6em, text centered, rounded corners, minimum height=2em]
+ 	\tikzstyle{block3} = [rectangle, draw, fill=t3!20, 
+ 	text width=6em, text centered, rounded corners, minimum height=2em]
+ 	\tikzstyle{block4} = [rectangle, draw, fill=t4!20, 
+ 	text width=6em, text centered, rounded corners, minimum height=2em]
+ 	\tikzstyle{block5} = [rectangle, draw, fill=t5!20, 
+ 	text width=6em, text centered, rounded corners, minimum height=2em]
+ 	\tikzstyle{block6} = [rectangle, draw, fill=t6!20, 
+ 	text width=6em, text centered, rounded corners, minimum height=2em]
+ 	
+        \tikzstyle{line} = [draw, -latex']
  	\tikzstyle{cloud} = [draw, ellipse,fill=red!20,
  	minimum height=4em]
  	\tikzstyle{decisionn} = [diamond, draw, fill=red!20, 
@@ -22,13 +42,32 @@
  	text width=6em, text centered, rounded corners, minimum height=2em]
  	
  	\begin{tikzpicture}[node distance = 1cm, auto]\label{ams1}
- 	\node [block] (kickoff) {Kick-Off Meeting};
-        \node [block] (qualityplan) {Quality Plan};
-        \node [block] (riskplan) {Risk Management Plan};
-        \node [block] (doristeam) {DORIS task-force};
-        \node [block] (slrteam) {SLR task-force};
-        \node [block] (vlbiteam) {VLBI task-force};
-        \node [block] (recruitment) {PhD \& PostDoc recruitment};
+ 	\node [block1] (kickoff) {\footnotesize Kick-Off meeting};
+        \node [block1, above right=1.0cm and -0.4cm of kickoff] (qualityplan) {\footnotesize Quality Plan};
+        \node [block1, below right=1.0cm and -0.4cm of kickoff] (riskplan) {\footnotesize Risk Management Plan};
+        \node [block1, right of=kickoff, node distance=8.4cm] (wrapup) {\footnotesize Wrap-Up meeting};
+
+        \node [block2, below of=kickoff, node distance=4cm] (swteams) {\footnotesize Technique task-forces};
+        \node [block2, right of=swteams, node distance=4cm] (recruitment) {\footnotesize PhD \& PostDoc recruitment};
+        \node [block3, right of=recruitment, node distance=4cm] (devel) {\footnotesize Start SW development \& SW webpages};
+        \node [block3, right of=devel, node distance=4cm] (odsw) {\footnotesize Orbit determination SW};
+        \node [block3, right of=odsw, node distance=4cm] (podsw) {\footnotesize POD SW};
+        \node [block3, right of=podsw, node distance=4cm] (podpossw) {\footnotesize POD \& Positioning SW};
+        
+        \node [block4, below of=swteams, node distance=4cm] (rmau) {\footnotesize Form RMAU};
+        \node [block4, right of=rmau, node distance=4cm] (ramutrainingii) {\footnotesize Fund seeking training};
+        \node [block4, above right=1.0cm and -0.4cm of ramutrainingii] (ramutrainingi) {\footnotesize Management training};
+        \node [block4, below right=1.0cm and -0.4cm of ramutrainingi] (startbid) {\footnotesize Start bidding};
+        
+        \node [block5, below of=rmau, node distance=4cm] (ecocalli) {\footnotesize First ecosystem call};
+        \node [block5, right of=ecocalli, node distance=4cm] (ecocallii) {\footnotesize Second ecosystem call};
+        \node [block5, right of=ecocallii, node distance=4cm] (ecosys) {\footnotesize Initial ecosystem members};
+        \node [block5, above right=1.0cm and -0.4cm of ecosys] (ecoquesi) {\footnotesize Academia questionaire};
+        \node [block5, below right=1.0cm and -0.4cm of ecosys] (ecoquesii) {\footnotesize Commercial needs questionaire};
+
+        \node [block6, below of=ecocalli, node distance=4cm] (website) {\footnotesize ACRONYM website ``on air''};
+        \node [block6, right of=website, node distance=4cm] (websiteln) {\footnotesize Add training material};
+        \node [block6, right of=websiteln, node distance=4cm] (websitesw) {\footnotesize Links to SW};
 
         \iffalse
  	% Place nodes
@@ -92,5 +131,5 @@
  	\end{tikzpicture}
  	\caption{Flow chart for numerical solution procedure}
  \end{figure}
-
+\end{landscape}
 \end{document}
